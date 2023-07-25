@@ -164,3 +164,6 @@ logs
 temporary_warehouse/*
 *.DS_Store
 ._*
+parsing/paragraphs.csv.zip
+parsing/rspp_reports.csv
+parsing/reports/*
