@@ -167,3 +167,10 @@ temporary_warehouse/*
 parsing/paragraphs.csv.zip
 parsing/rspp_reports.csv
 parsing/reports/*
+*.pdf
+*.csv
+*.zip
+*.png
+*.xlsx
+*.docx
+*.pkl
