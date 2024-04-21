@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a514a943-cfc0-4507-9c69-5198e6ec590f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/PDF_processing_module/ESGServer/apryse.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF_processing_module/ESGServer/apryse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PDF_processing_module/ESGServer/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/PDF_processing_module/ESGServer/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/RSPP rating - Индекс _Ответственность и открытость_.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_«МЕТАЛЛОИНВЕСТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_АК «АЛРОСА».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_АО «МХК «ЕвроХим».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ОАО «РЖД».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ОАО «Сургутнефтегаз».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ОК РУСАЛ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «АЭРОФЛОТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «Газпром».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «ЛУКОЙЛ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «НК «Роснефть».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «НОВАТЭК».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «РусГидро».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/E_ПАО «Северсталь».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_«МЕТАЛЛОИНВЕСТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_АК «АЛРОСА».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_АО «МХК «ЕвроХим».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ОАО «РЖД».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ОАО «Сургутнефтегаз».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ОК РУСАЛ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «АЭРОФЛОТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «Газпром».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «ЛУКОЙЛ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «НК «Роснефть».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «НОВАТЭК».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «РусГидро».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/G_ПАО «Северсталь».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_«МЕТАЛЛОИНВЕСТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_АК «АЛРОСА».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_АО «МХК «ЕвроХим».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ОАО «РЖД».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ОАО «Сургутнефтегаз».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ОК РУСАЛ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «АЭРОФЛОТ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «Газпром».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «ЛУКОЙЛ».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «НК «Роснефть».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «НОВАТЭК».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «РусГидро».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/images/S_ПАО «Северсталь».png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper/Разработка алгоритма расчета индекса этичности  на основе текстовых открытых данных.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PDF_processing_module/ESGServer" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fEhUBfV9hbLsqWAV0VOzWBgBpb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/TUF/PycharmProjects/ESGServer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESGProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF_processing_module/ESGServer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF_processing_module/ESGServer/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ESGProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PDF_processing_module/ESG-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PDF_processing_module/ESG-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a514a943-cfc0-4507-9c69-5198e6ec590f" name="Changes" comment="" />
+      <created>1713372157982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713372157982</updated>
+      <workItem from="1713372159028" duration="5798000" />
+      <workItem from="1713452258546" duration="357000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ESGProject$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1713452478923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PDF_processing_module/ESGServer" />
+    <SUITE FILE_PATH="coverage/ESGProject$main.coverage" NAME="main Coverage Results" MODIFIED="1713452477160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PDF_processing_module/ESG-master" />
+  </component>
+</project>
