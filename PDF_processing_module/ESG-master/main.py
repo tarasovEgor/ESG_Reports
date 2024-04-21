@@ -6,7 +6,7 @@ import re
 
 def correct_path(path):
     directory, filename = os.path.split(path)
-    corrected_filename = re.sub(r'_+', '', filename)
+    corrected_filename = re.sub(r'_+', '$', filename)
     print(corrected_filename)
     os.rename(path, os.path.join(directory, corrected_filename))
     print(path)
