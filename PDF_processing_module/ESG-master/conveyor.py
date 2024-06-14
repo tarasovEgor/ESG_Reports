@@ -14,7 +14,7 @@ def convey_to_server(url, pdf_path, pdf_list):
     for pdf in pdf_list:
         print("Conveying " + pdf + " to server...")
         # pdf_path = pdf_path + '/' + pdf
-        main.main(url, pdf_path + '/' + pdf, 1)
+        main.main(url, pdf_path + '/' + pdf, 2)
         print(pdf + " was successfully converted to txt, conveying the next item...")
 
 convey_to_server(url, pdf_path, pdf_list)
